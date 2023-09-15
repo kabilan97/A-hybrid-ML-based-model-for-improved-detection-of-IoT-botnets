@@ -11,7 +11,7 @@ The code necessary to run the research of "A-hybrid-ML-based-model-for-improved-
 
 ## Run
 
-Start the Jupyter Notebook and open the file `Thesis_analysis.ypnb`. This contains all the code needed for the data read-in, data preprocessing, feature selection, hybrid model, and evaluation. 
+Start the Jupyter Notebook and open the file `Thesis_Analysis.ipynb`. This contains all the code needed for the data read-in, data preprocessing, feature selection, hybrid model, and evaluation. 
 
 ## Additional components
 
